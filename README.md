@@ -4,4 +4,4 @@
 
 * [Gitolite](https://gitolite.com/gitolite/index.html)
 
-* [This Talk]()
+* [This Talk](https://github.com/daemoneye/Gitolite-talk)
